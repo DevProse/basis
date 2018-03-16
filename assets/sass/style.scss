@@ -1,0 +1,20 @@
+/*
+Theme Name: basis
+Theme URI: https://github.com/DevProse/basis/
+Author: Automattic
+Author URI: https://github.com/DevProse/basis
+Description: Basis Starter Theme. Sassified, Bootstraped, Gulped.
+Version: 1.0.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: basis
+Tags: custom
+This theme, like WordPress, is licensed under the GPL.
+Based on Underscores http://underscores.me/, (C) 2012-2017 Automattic, Inc.
+*/
+
+// Include latest normalize
+@import "utilities/normalize";
+
+// Include bootstrap 3. (Edit _bootstrap.scss to include / exclude modules )
+@import "bootstrap/bootstrap";

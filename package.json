@@ -1,0 +1,44 @@
+{
+  "name": "basis",
+  "version": "1.0.0",
+  "description": "A theme boilerplate.",
+  "main": "Gulpfile.js",
+  "dependencies": {
+    "browser-sync": "~2",
+    "css-mqpacker": "~6",
+    "del": "~3",
+    "eslint": "~4",
+    "eslint-config-wordpress": "~2",
+    "glob": "~7",
+    "gulp": "~3",
+    "gulp-cheerio": "~0",
+    "gulp-concat": "~2",
+    "gulp-cssnano": "~2",
+    "gulp-eslint": "~4",
+    "gulp-notify": "~3",
+    "gulp-plumber": "~1",
+    "gulp-postcss": "~7",
+    "gulp-rename": "~1",
+    "gulp-sass": "~3",
+    "gulp-sass-lint": "~1",
+    "gulp-sort": "~2",
+    "gulp-sourcemaps": "~2",
+    "gulp-uglify": "~3",
+    "gulp-util": "~3",
+    "sassdoc": "~2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"No test specified\""
+  },
+  "repository": "git+https://github.com/DevProse/basis.git",
+  "keywords": [
+    "theme"
+  ],
+  "author": "DevProse",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/DevProse/basis/issues"
+  },
+  "homepage": "https://github.com/DevProse/basis/issues"
+}
